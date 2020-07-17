@@ -1,0 +1,3 @@
+Manifest-Version: 6.6.0
+Main-Class: Battleground
+Class-Path: Pokemon.jar

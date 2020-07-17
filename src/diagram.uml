@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="235.99999999999994" y="152.0">Lab2.Attacks.Confide</node>
+    <node x="0.0" y="152.0">Lab2.Attacks.Aerial_Ace</node>
+    <node x="178.99999999999994" y="238.0">Lab2.Pokemons.Buzzwole</node>
+    <node x="135.99999999999994" y="152.0">Lab2.Attacks.Growl</node>
+    <node x="436.49999999999994" y="238.0">Lab2.Pokemons.Jynx</node>
+    <node x="316.99999999999994" y="76.0">Lab2.Attacks.Facade</node>
+    <node x="783.25" y="76.0">Lab2.Attacks.Sludge_Bomb</node>
+    <node x="835.9272222222221" y="0.0">Lab2.Attacks.Shadow_Ball</node>
+    <node x="756.0" y="238.0">Lab2.Pokemons.Victreebel</node>
+    <node x="949.9272222222221" y="76.0">Lab2.Pokemons.Bellsprout</node>
+    <node x="884.4008333333331" y="152.0">Lab2.Pokemons.Weepinbell</node>
+    <node x="361.99999999999994" y="152.0">Lab2.Attacks.Psychic</node>
+    <node x="553.0" y="76.0">Lab2.Attacks.Blizzard</node>
+    <node x="628.8333333333333" y="324.0">Lab2.Battleground</node>
+    <node x="978.9272222222221" y="0.0">Lab2.Attacks.Fire_Blast</node>
+    <node x="460.99999999999994" y="76.0">Lab2.Attacks.Rest</node>
+    <node x="639.25" y="152.0">Lab2.Attacks.Double_Team</node>
+    <node x="476.99999999999994" y="152.0">Lab2.Pokemons.Smoochum</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Lab2.Pokemons.Victreebel" target="Lab2.Attacks.Double_Team">
+      <point x="-46.40000000000002" y="-13.0" />
+      <point x="767.5999999999999" y="218.0" />
+      <point x="700.75" y="218.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Victreebel" target="Lab2.Pokemons.Weepinbell">
+      <point x="46.400000000000006" y="-13.0" />
+      <point x="860.4" y="218.0" />
+      <point x="942.4008333333331" y="218.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Smoochum" target="Lab2.Attacks.Facade">
+      <point x="-33.66666666666663" y="-13.0" />
+      <point x="493.8333333333333" y="122.0" />
+      <point x="389.49999999999994" y="122.0" />
+      <point x="29.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Bellsprout" target="Lab2.Attacks.Shadow_Ball">
+      <point x="-29.0" y="-13.0" />
+      <point x="978.9272222222221" y="51.0" />
+      <point x="938.4272222222221" y="51.0" />
+      <point x="41.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Weepinbell" target="Lab2.Pokemons.Bellsprout">
+      <point x="43.5" y="-13.0" />
+      <point x="985.9008333333331" y="132.0" />
+      <point x="1007.9272222222221" y="132.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Weepinbell" target="Lab2.Attacks.Sludge_Bomb">
+      <point x="-43.5" y="-13.0" />
+      <point x="898.9008333333331" y="132.0" />
+      <point x="875.5" y="132.0" />
+      <point x="30.75" y="13.0" />
+    </edge>
+    <edge source="Lab2.Battleground" target="Lab2.Pokemons.Bellsprout">
+      <point x="54.16666666666663" y="-13.0" />
+      <point x="747.9999999999999" y="304.0" />
+      <point x="1024.1776388888889" y="304.0" />
+      <point x="1024.1776388888889" y="132.0" />
+      <point x="1046.5938888888886" y="132.0" />
+      <point x="38.66666666666663" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Buzzwole" target="Lab2.Attacks.Aerial_Ace">
+      <point x="-37.875" y="-13.0" />
+      <point x="191.62499999999994" y="218.0" />
+      <point x="58.0" y="218.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Jynx" target="Lab2.Pokemons.Smoochum">
+      <point x="6.0" y="-13.0" />
+      <point x="478.49999999999994" y="198.0" />
+      <point x="493.8333333333333" y="198.0" />
+      <point x="-33.66666666666663" y="13.0" />
+    </edge>
+    <edge source="Lab2.Battleground" target="Lab2.Pokemons.Buzzwole">
+      <point x="-54.166666666666686" y="-13.0" />
+      <point x="639.6666666666666" y="304.0" />
+      <point x="229.49999999999994" y="304.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Jynx" target="Lab2.Attacks.Facade">
+      <point x="-30.0" y="-13.0" />
+      <point x="442.49999999999994" y="218.0" />
+      <point x="351.49999999999994" y="218.0" />
+      <point x="351.49999999999994" y="132.0" />
+      <point x="360.49999999999994" y="132.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Victreebel" target="Lab2.Attacks.Shadow_Ball">
+      <point x="-23.200000000000017" y="-13.0" />
+      <point x="790.8" y="218.0" />
+      <point x="772.75" y="218.0" />
+      <point x="772.75" y="51.0" />
+      <point x="856.4272222222221" y="51.0" />
+      <point x="-41.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Smoochum" target="Lab2.Attacks.Blizzard">
+      <point x="33.66666666666663" y="-13.0" />
+      <point x="561.1666666666665" y="132.0" />
+      <point x="578.25" y="132.0" />
+      <point x="-25.25" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Jynx" target="Lab2.Attacks.Blizzard">
+      <point x="30.0" y="-13.0" />
+      <point x="502.49999999999994" y="218.0" />
+      <point x="628.75" y="218.0" />
+      <point x="25.25" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Weepinbell" target="Lab2.Attacks.Shadow_Ball">
+      <point x="-14.5" y="-13.0" />
+      <point x="927.9008333333331" y="132.0" />
+      <point x="916.75" y="132.0" />
+      <point x="916.75" y="51.0" />
+      <point x="897.4272222222221" y="51.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Jynx" target="Lab2.Attacks.Psychic">
+      <point x="-18.0" y="-13.0" />
+      <point x="454.49999999999994" y="208.0" />
+      <point x="408.99999999999994" y="208.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Smoochum" target="Lab2.Attacks.Rest">
+      <point x="0.0" y="-13.0" />
+      <point x="527.5" y="132.0" />
+      <point x="515.0" y="132.0" />
+      <point x="18.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Jynx" target="Lab2.Attacks.Rest">
+      <point x="-6.0" y="-13.0" />
+      <point x="466.49999999999994" y="132.0" />
+      <point x="478.99999999999994" y="132.0" />
+      <point x="-18.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Battleground" target="Lab2.Pokemons.Victreebel">
+      <point x="10.833333333333314" y="-13.0" />
+      <point x="704.6666666666666" y="284.0" />
+      <point x="814.0" y="284.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Battleground" target="Lab2.Pokemons.Weepinbell">
+      <point x="32.5" y="-13.0" />
+      <point x="726.3333333333333" y="294.0" />
+      <point x="969.9166666666665" y="294.0" />
+      <point x="969.9166666666665" y="218.0" />
+      <point x="981.0674999999999" y="218.0" />
+      <point x="38.66666666666663" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Victreebel" target="Lab2.Attacks.Sludge_Bomb">
+      <point x="0.0" y="-13.0" />
+      <point x="-30.75" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Buzzwole" target="Lab2.Attacks.Facade">
+      <point x="37.875" y="-13.0" />
+      <point x="267.37499999999994" y="218.0" />
+      <point x="340.49999999999994" y="218.0" />
+      <point x="340.49999999999994" y="132.0" />
+      <point x="331.49999999999994" y="132.0" />
+      <point x="-29.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Bellsprout" target="Lab2.Attacks.Fire_Blast">
+      <point x="29.0" y="-13.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Buzzwole" target="Lab2.Attacks.Confide">
+      <point x="12.625" y="-13.0" />
+      <point x="242.12499999999994" y="208.0" />
+      <point x="282.99999999999994" y="208.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Battleground" target="Lab2.Pokemons.Jynx">
+      <point x="-32.5" y="-13.0" />
+      <point x="661.3333333333333" y="294.0" />
+      <point x="472.49999999999994" y="294.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Pokemons.Buzzwole" target="Lab2.Attacks.Growl">
+      <point x="-12.625" y="-13.0" />
+      <point x="216.87499999999994" y="208.0" />
+      <point x="175.99999999999994" y="208.0" />
+      <point x="0.0" y="13.0" />
+    </edge>
+    <edge source="Lab2.Battleground" target="Lab2.Pokemons.Smoochum">
+      <point x="-10.833333333333371" y="-13.0" />
+      <point x="682.9999999999999" y="284.0" />
+      <point x="561.1666666666665" y="284.0" />
+      <point x="33.66666666666663" y="13.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8" x="607.9166666666661" y="239.57936507936532" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
